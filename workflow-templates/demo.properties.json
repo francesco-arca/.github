@@ -1,6 +1,6 @@
 {
     "name": "Demo Workflow",
     "description": "Demo workflow template.",
-    "iconName": "log",
+    "iconName": "octicon log",
     "categories": ["deployment","C#"]    
 }
