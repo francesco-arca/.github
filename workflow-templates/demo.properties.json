@@ -2,9 +2,5 @@
     "name": "Demo Workflow",
     "description": "Demo workflow template.",
     "iconName": "octicon log",
-    "categories": [
-        "deployment",
-        "C#",
-        "DotNetConsole"
-    ] 
+    "categories": ["deployment","C#","DotNetConsole"] 
 }
