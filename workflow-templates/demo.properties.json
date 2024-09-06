@@ -2,5 +2,5 @@
     "name": "Demo Workflow",
     "description": "Demo workflow template.",
     "iconName": "log",
-    "categories": ["Security"]    
+    "categories": ["Continuous integration"]    
 }
