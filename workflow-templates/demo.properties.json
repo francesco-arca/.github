@@ -1,4 +1,6 @@
 {
     "name": "Demo Workflow",
-    "description": "Demo workflow template."
+    "description": "Demo workflow template.",
+    "iconName": "log",
+    "categories": ["Security"]    
 }
