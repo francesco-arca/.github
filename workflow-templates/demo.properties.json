@@ -3,6 +3,6 @@
     "description": "Demo workflow template.",
     "iconName": "octicon log",
     "categories": [
-        "C#",
+        "C#"
     ] 
 }
